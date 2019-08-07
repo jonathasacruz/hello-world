@@ -1,2 +1,2 @@
 # hello-world
-Aprendendo o GIT HUM pelo tutorial
+Aprendendo o GIT HUB pelo tutorial
